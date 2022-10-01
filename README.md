@@ -1,2 +1,2 @@
-# Pyhton-Projects
+# Python-Projects
 Basic Python Projects
